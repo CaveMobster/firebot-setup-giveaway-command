@@ -1,6 +1,6 @@
 # Giveaway command
 
-This setup adds a giveaway command that works with subcommands.
+This [Firebot](https://firebot.app) setup adds a giveaway command that works with subcommands.
 
 ## (Sub)commands
 
@@ -25,4 +25,4 @@ This setup adds a giveaway command that works with subcommands.
 
 ## How to download 
 
-Right click on [this link](https://raw.githubusercontent.com/CaveMobster/firebot-setups/master/Commands/Giveaway/giveaways.firebotsetup) and choose "Save Link As...".
+Find the download [here](https://github.com/CaveMobster/firebot-setup-giveaway-command/releases).
