@@ -21,3 +21,6 @@ This setup adds a command that you can use to organize a giveaway in your chat.
 **!giveaway clear** - Clears the role.
 
 **!giveaway [anything]** - A fallback command in case users write a message after the command. It displays the default !giveaway message.
+
+## How to download
+Find the download [here](https://github.com/CaveMobster/firebot-setup-giveaway-command/releases).
